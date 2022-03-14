@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\ref\SquareRoot.dll
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\DELL\Desktop\Code Academy\C#Intro\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\SumLesser10.exe
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\SumLesser10.deps.json
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\SumLesser10.runtimeconfig.json
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\SumLesser10.dll
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\ref\SumLesser10.dll
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\bin\Debug\net6.0\SumLesser10.pdb
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.dll
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\ref\SumLesser10.dll
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.pdb
+C:\Users\DELL\source\repos\SumLesser10\SumLesser10\obj\Debug\net6.0\SumLesser10.genruntimeconfig.cache
